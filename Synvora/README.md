@@ -15,7 +15,7 @@ Folder ini diperuntukkan khusus bagi mahasiswa baru yang terdaftar di **Kelompok
 
 ---
 
-### Template Biodata (Copy Kode Di Bawah Ini)
+### Template Biodata
 
 ```markdown
 ### Biodata Anggota
