@@ -8,17 +8,25 @@ Penugasan ini dirancang untuk mengenalkan dasar-dasar alur kerja *Version Contro
 
 ## Daftar Kelompok
 
-Setiap folder di dalam repositori ini merepresentasikan satu kelompok. Silakan identifikasi folder kelompokmu sebelum memulai pengerjaan:
+Setiap folder di bawah ini merepresentasikan satu kelompok. Silakan masuk ke folder kelompok masing-masing dan ikuti panduan pengerjaan:
 
-| | Nama Kelompok | |
-| :--- | :--- | :--- |
-| • Aethron | • GreenAlgo | • Nexintel |
-| • Aithera | • Harmonet | • Novatrix |
-| • Cognivex | • Humatrix | • Orvion |
-| • Ecomind | • Innovatrix | • Sentigen |
-| • Ethicode | • Inteliora | • Synvora |
-| | • Intellcare | |
-| | • Neurocare | |
+* Aethron
+* Aithera
+* Cognivex
+* Ecomind
+* Ethicode
+* GreenAlgo
+* Harmonet
+* Humatrix
+* Innovatrix
+* Inteliora
+* Intellcare
+* Neurocare
+* Nexintel
+* Novatrix
+* Orvion
+* Sentigen
+* Synvora
 
 ---
 
