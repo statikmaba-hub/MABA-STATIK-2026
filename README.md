@@ -4,8 +4,6 @@ Welcome to the official GitHub repository for **Penugasan Mahasiswa Baru Teknik 
 
 Penugasan ini dirancang untuk mengenalkan dasar-dasar alur kerja *Version Control System* menggunakan **GitHub**, mulai dari proses *Forking*, pengelolaan berkas repositori, hingga pengiriman *Pull Request* (PR) sesuai dengan standar industri *software engineering*.
 
----
-
 ## Daftar Kelompok
 
 Setiap folder di bawah ini merepresentasikan satu kelompok. Silakan masuk ke folder kelompok masing-masing dan ikuti panduan pengerjaan:
