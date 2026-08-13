@@ -81,9 +81,9 @@ Setelah seluruh biodata terisi dengan benar, simpan berkas dengan mengeklik tomb
 Gunakan format udul wajib berikut saat mengajukan Pull Request:
 
 ```text
-[NIM] Nama Lengkap - Nama Kelompok
+Nama Lengkap (NIM) - Nama Kelompok
 ```
-*Contoh Judul PR:* `[240601001] Budi Santoso - Aethron`
+*Contoh Judul PR:* `Budi Santoso (240601001) - Aethron`
 
 ---
 
