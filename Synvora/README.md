@@ -6,23 +6,29 @@ Folder ini diperuntukkan khusus bagi mahasiswa baru yang terdaftar di **Kelompok
 
 ### Petunjuk Singkat Pengerjaan:
 
-1. Pastikan kamu berada di dalam folder kelompokmu: `[Nama Kelompok]/`.
-2. Klik **Add file** $\rightarrow$ **Create new file**.
-3. Beri nama file dengan format: `NIM-NamaLengkap.md`  
+1. Pastikan kamu berada di dalam folder kelompokmu: `Synvora/`.
+2. Klik **Add file** ➔ **Create new file**.
+3. Beri nama file dengan format wajib: `NIM-NamaLengkap.md`  
    *(Contoh: `240601001-BudiSantoso.md`)*
 4. Salin kode *template* di bawah ini, lalu isi sesuai data pribadimu.
 5. Klik **Commit changes...** dan lanjutkan ke proses *Pull Request*.
 
 ---
 
-### Template Biodata
+### Template Biodata (Copy Kode Di Bawah Ini)
 
 ```markdown
 ### Biodata Anggota
 
 * **Nama Lengkap:** 
 * **NIM:** 
-* **Tanggal Lahir:** 
+* **Asal Daerah / Kota:** 
 * **Tujuan Masuk Teknik Informatika:** 
 * **Bidang IT yang Ingin Didalami:** 
-* **Fun Fact:**
+* **Fun Fact:** 
+```
+
+---
+
+### Pengingat Panitia:
+Dilarang membuat file baru di luar folder kelompokmu dan dilarang mengubah file milik teman lain di kelompok ini.
