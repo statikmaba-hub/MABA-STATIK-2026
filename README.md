@@ -26,8 +26,6 @@ Silakan cari dan masuk ke dalam folder yang sesuai dengan nama kelompokmu di baw
 * Sentigen
 * Synvora
 
----
-
 ## Langkah-Langkah Pengerjaan
 
 Ikuti instruksi pengerjaan secara berurutan berikut dengan teliti:
