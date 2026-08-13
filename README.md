@@ -1,6 +1,6 @@
 # Penugasan GitHub MABA-STATIK-2026
 
-Selamat datang di repositori resmi **Penugasan GitHub Mahasiswa Baru Teknik Informatika 2026**!
+Selamat datang di repositori resmi **Penugasan GitHub Mahasiswa Baru Teknik Informatika 2026**
 
 Penugasan ini dirancang untuk mengenalkan alur kerja kolaborasi berbasis *Version Control System* (**GitHub**) melalui praktik *Fork* dan *Pull Request* (PR) sebagai standar industri *software engineering*, sekaligus membangun sistem pendataan mahasiswa baru yang terstruktur.
 
