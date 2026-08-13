@@ -4,8 +4,6 @@ Selamat datang di repositori resmi **Penugasan GitHub Mahasiswa Baru Teknik Info
 
 Penugasan ini dirancang untuk mengenalkan alur kerja kolaborasi berbasis *Version Control System* (**GitHub**) melalui praktik *Fork* dan *Pull Request* (PR) sebagai standar industri *software engineering*.
 
----
-
 ## Daftar Kelompok
 
 Silakan cari dan masuk ke dalam folder yang sesuai dengan nama kelompokmu di bawah ini:
@@ -85,8 +83,6 @@ Nama Lengkap (NIM) - Nama Kelompok
 ```
 *Contoh Judul PR:* `Budi Santoso (240601001) - Aethron`
 
----
-
 ## Ketentuan & Aturan Penting
 
 * Wajib menggunakan akun GitHub dengan nama asli yang mudah dikenali.
@@ -97,8 +93,6 @@ Nama Lengkap (NIM) - Nama Kelompok
 * Setiap peserta hanya diperbolehkan mengirim satu (1) Pull Request.
 * Jika terdapat kesalahan penulisan atau kendala setelah PR dikirim, **DILARANG** menutup (*Close*) PR atau membuat PR baru. Segera hubungi Divisi Penugasan untuk arahan perbaikan.
 * Pull Request yang tidak memenuhi ketentuan di atas dapat ditolak (*Closed*) oleh panitia.
-
----
 
 ## Bantuan & Pertanyaan
 
