@@ -87,7 +87,7 @@ Nama Lengkap (NIM) - Nama Kelompok
 
 ---
 
-## Ketentuan & Aturan Penting
+## Ketentuan Penugasan
 
 * **Identitas Akun:** Wajib menggunakan akun GitHub dengan nama asli yang mudah dikenali.
 * **Wajib Fork:** Pengerjaan berkas harus dilakukan di dalam repositori hasil Fork pribadi, bukan secara langsung di repositori utama.
