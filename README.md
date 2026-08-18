@@ -89,14 +89,17 @@ Nama Lengkap (NIM) - Nama Kelompok
 
 ## Ketentuan Penugasan
 
-* **Identitas Akun:** Wajib menggunakan akun GitHub dengan nama asli yang mudah dikenali.
-* **Wajib Fork:** Pengerjaan berkas harus dilakukan di dalam repositori hasil Fork pribadi, bukan secara langsung di repositori utama.
-* **Isolasi Folder:** Setiap peserta hanya diperbolehkan menambahkan 1 file di dalam folder kelompoknya masing-masing.
-* **Integritas Berkas:** Dilarang keras mengedit, memindahkan, atau menghapus berkas milik peserta lain.
-* **Format Penamaan:** Nama file wajib mengikuti format `NIM-NamaLengkap.md`.
-* **Batas Pengajuan PR:** Setiap peserta hanya diperbolehkan mengirim satu (1) Pull Request.
-* **Penanganan Kesalahan Data:** Jika terdapat kesalahan penulisan atau kendala setelah PR dikirim, **DILARANG** menutup (*Close*) PR atau membuat PR baru. Segera hubungi Divisi Penugasan untuk arahan perbaikan.
-* **Sanksi/Penolakan:** Pull Request yang tidak memenuhi ketentuan di atas dapat ditolak (*Closed*) oleh panitia.
+* Wajib menggunakan akun GitHub dengan nama asli yang mudah dikenali.
+* Pengerjaan berkas harus dilakukan di dalam repositori hasil Fork pribadi, bukan secara langsung di repositori utama.
+* Setiap peserta hanya diperbolehkan menambahkan 1 file di dalam folder kelompoknya masing-masing.
+* Dilarang keras mengedit, memindahkan, atau menghapus berkas milik peserta lain.
+* Nama file wajib mengikuti format `NIM-NamaLengkap.md`.
+* Setiap peserta hanya diperbolehkan mengirim satu (1) Pull Request.
+* Jika terdapat kesalahan isi berkas, salah nama berkas, salah folder, atau salah judul PR setelah dikirim:
+   * DILARANG menutup (*Close*) PR atau membuat PR baru.
+   * Perbaikan Isi / Nama / Folder Berkas:** Cukup perbaiki berkas tersebut di repositori hasil *Fork* pribadi kamu, lalu lakukan Commit changes. Perubahan akan otomatis memperbarui (*update*) Pull Request kamu secara *real-time*.
+   * Perbaikan Judul PR: Buka halaman Pull Request kamu di repositori panitia, klik tombol Edit di samping judul PR, perbaiki sesuai format, lalu klik Save.
+* Pull Request yang tidak memenuhi ketentuan di atas dapat ditolak (*Closed*) oleh panitia.
 
 ---
 
