@@ -97,7 +97,7 @@ Nama Lengkap (NIM) - Nama Kelompok
 * Setiap peserta hanya diperbolehkan mengirim satu (1) Pull Request.
 * Jika terdapat kesalahan isi berkas, salah nama berkas, salah folder, atau salah judul PR setelah dikirim:
    * DILARANG menutup (*Close*) PR atau membuat PR baru.
-   * Perbaikan Isi / Nama / Folder Berkas:** Cukup perbaiki berkas tersebut di repositori hasil *Fork* pribadi kamu, lalu lakukan Commit changes. Perubahan akan otomatis memperbarui (*update*) Pull Request kamu secara *real-time*.
+   * Perbaikan Isi / Nama / Folder Berkas: Cukup perbaiki berkas tersebut di repositori hasil *Fork* pribadi kamu, lalu lakukan Commit changes. Perubahan akan otomatis memperbarui (*update*) Pull Request kamu secara *real-time*.
    * Perbaikan Judul PR: Buka halaman Pull Request kamu di repositori panitia, klik tombol Edit di samping judul PR, perbaiki sesuai format, lalu klik Save.
 * Pull Request yang tidak memenuhi ketentuan di atas dapat ditolak (*Closed*) oleh panitia.
 
